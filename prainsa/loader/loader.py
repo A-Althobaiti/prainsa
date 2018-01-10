@@ -11,24 +11,24 @@ from .matlab_loader import matlab_loader
 def main_loader(path, dataset_name=None, variable_name=None, num_channels=None, sampling_rate=None, epoch_length=1, mapping=True):
 	if dir_exist(path):
 		# get files only
-		files = [file for file in os.scandir(path) if file.is_file()]
+		files = [file for file in os.listdir(path) if '.' in file]
 
 		# look for metadata files
 		for file in files:
-			file_name, ext = os.path.splitext(file.path)
-			if basename(file_name) == 'metadata' and ext == '.dat':
+			file_name, ext = file.split('.')
+			if file_name == 'metadata' and ext == 'dat':
 				return prainsa_loader(path, mapping).create_Prainsa()
 
 		# look for Matlab files
 		for file in files:
-			file_name, ext = os.path.splitext(file.path)
-			if ext == '.mat':
+			file_name, ext = file.split('.')
+			if ext == 'mat':
 				return matlab_loader(file.path, dataset_name, variable_name, num_channels, sampling_rate, epoch_length).create_Prainsa()
 
 		# look for NumPy files
 		for file in files:
-			file_name, ext = os.path.splitext(file.path)
-			if ext == '.npy' or ext == '.npz':
+			file_name, ext = file.split('.')
+			if ext == 'npy' or ext == 'npz':
 				return numpy_loader(file.path, dataset_name, variable_name, num_channels, sampling_rate, epoch_length).create_Prainsa()
 
 	elif file_exist(path):

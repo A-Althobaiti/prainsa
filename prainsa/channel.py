@@ -1,6 +1,3 @@
-import matplotlib.pyplot as plt
-from matplotlib import style
-
 from .plotly_plot.plotly_plot import plotly_plot
 '''
 A statistical Python toolbox to explore brain signals
