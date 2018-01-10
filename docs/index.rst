@@ -1,5 +1,5 @@
 Welcome to Python Brain Signal Analysis's documentation!
-======================================
+========================================================
 
 Contents:
 

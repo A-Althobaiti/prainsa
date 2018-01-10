@@ -18,21 +18,15 @@ from .plotly_plot.plotly_plot import plotly_plot
 
 '''
 A statistical Python toolbox to explore brain signals
-
-TODO:
-Stream plot per band or data
-interactive xcorr for the whole dataset
 '''
 
 class Prainsa(object):
 	'A toolbox to explore brain signals connectivity'
 
-	version = '0.1'
-
 	def __init__(self, dataset, name, sampling_rate=1000, num_channels=32, epoch_length=1):
 		'''
 		dataset: holds the actual brain signals, either as list or a numpy array, where columns are channels and rows are observations
-		names: specifies the name of the dataset
+		name: specifies the name of the dataset
 		sampling_rate: is pre-defined as 1000; however, it must be overridden -specified- if the sampling rate is different
 		num_channels: is pre-defined as 32; however, it must be overriden -specified- if the number of channels in the dataset is different
 		epoch_length: is an arbitrary segmentatoin of the data, and the default value is 1 second
@@ -100,11 +94,13 @@ class Prainsa(object):
 				+---------+--------------------+
 				|  'all'  | extracts all bands |
 				+---------+--------------------+
+
 				the ranges of the bands are pre-defined and
 				cannot be modeified. Unless the frequency range
 				exceeds the sampling rate of the dataset, then
 				the upper limit will be replaced by the sampling
 				rate - 1.
+
 		Returns
 		----------
 		None. The resulting computations will be stored in the object
