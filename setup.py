@@ -3,6 +3,7 @@
 
 """The setup script."""
 
+import versioneer
 from setuptools import setup, find_packages
 
 with open('README.rst') as readme_file:
@@ -12,7 +13,10 @@ with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
 requirements = [
-    # TODO: put package requirements here
+    'numpy>=1.11.1',
+    'scipy>=0.18.1',
+    'plotly>=2.0.12',
+    'h5py>=2.6.0'
 ]
 
 setup_requirements = [
@@ -25,7 +29,8 @@ test_requirements = [
 
 setup(
     name='prainsa',
-    version='0.1.0',
+    version=versioneer.get_version(),
+    cmdclass=versioneer.get_cmdclass(),
     description="A Python framework to analyze and visualize brain signals.",
     long_description=readme + '\n\n' + history,
     author="Abdulrahman A. Althobaiti",

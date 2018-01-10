@@ -1,0 +1,1042 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"prainsa_loader"
+			],
+			[
+				"fil",
+				"file_name"
+			],
+			[
+				"e",
+				"ext"
+			],
+			[
+				"ch",
+				"china_requests"
+			],
+			[
+				"co",
+				"from_ch_to_layer"
+			],
+			[
+				"data",
+				"data_ch2"
+			],
+			[
+				"version",
+				"versioneer"
+			],
+			[
+				"ver",
+				"versioneer"
+			],
+			[
+				"rev",
+				"rev_g"
+			],
+			[
+				"edge",
+				"edge_queue"
+			],
+			[
+				"c",
+				"command"
+			],
+			[
+				"Edge",
+				"Edges"
+			],
+			[
+				"E",
+				"Edges"
+			],
+			[
+				"trace",
+				"trace3"
+			],
+			[
+				"tra",
+				"trace2"
+			],
+			[
+				"a",
+				"appended"
+			],
+			[
+				"thre",
+				"thread"
+			],
+			[
+				"th",
+				"thread"
+			],
+			[
+				"plot",
+				"plot_evolution"
+			],
+			[
+				"from",
+				"from_matrix"
+			],
+			[
+				"band",
+				"band_2"
+			],
+			[
+				"fir",
+				"first_channel"
+			],
+			[
+				"fi",
+				"firstChannel"
+			],
+			[
+				"seco",
+				"secondChannel"
+			],
+			[
+				"sec",
+				"secondBand"
+			],
+			[
+				"ch_",
+				"ch1_name"
+			],
+			[
+				"ch2",
+				"ch2_name"
+			],
+			[
+				"ch1",
+				"ch1_name"
+			],
+			[
+				"lag",
+				"lags_value"
+			],
+			[
+				"xco",
+				"xcorr_value"
+			],
+			[
+				"band_",
+				"band_1_data"
+			],
+			[
+				"trac",
+				"trace_2"
+			],
+			[
+				"firs",
+				"firstBand"
+			],
+			[
+				"pos",
+				"post_data"
+			],
+			[
+				"pre",
+				"pre_data"
+			],
+			[
+				"second",
+				"secondBand"
+			],
+			[
+				"first",
+				"firstBand"
+			],
+			[
+				"chu",
+				"chunk"
+			],
+			[
+				"re",
+				"recv_window"
+			],
+			[
+				"rec",
+				"recv_window"
+			],
+			[
+				"make",
+				"make_ack"
+			],
+			[
+				"n",
+				"nbytes"
+			],
+			[
+				"se",
+				"seq_no"
+			],
+			[
+				"pack",
+				"packet"
+			],
+			[
+				"pa",
+				"payload_size"
+			],
+			[
+				"m",
+				"make_fin"
+			],
+			[
+				"tr",
+				"try\tTry/Except"
+			],
+			[
+				"mak",
+				"make_syn_ack"
+			],
+			[
+				"ack",
+				"ack_no"
+			],
+			[
+				"pu",
+				"public_key"
+			],
+			[
+				"pri",
+				"private_key"
+			],
+			[
+				"o",
+				"other_port"
+			],
+			[
+				"en",
+				"encrypt"
+			],
+			[
+				"add",
+				"addr"
+			],
+			[
+				"sy",
+				"syn_ack"
+			],
+			[
+				"syn",
+				"syn_ack"
+			],
+			[
+				"try",
+				"try\tTry/Except/Finally"
+			],
+			[
+				"ma",
+				"make_syn"
+			],
+			[
+				"so",
+				"sock352portRx"
+			],
+			[
+				"sys",
+				"syssock"
+			],
+			[
+				"UDP",
+				"UDPportTx"
+			],
+			[
+				"sock",
+				"sock352portTx"
+			],
+			[
+				"Hotel",
+				"HotelInfo"
+			],
+			[
+				"sen",
+				"sen_port"
+			],
+			[
+				"Re",
+				"ReviewID"
+			],
+			[
+				"Rev",
+				"Reviews"
+			],
+			[
+				"Ho",
+				"HotelInfo"
+			],
+			[
+				"day",
+				"dayOfWeek"
+			],
+			[
+				"Avg",
+				"AvgOverallRating"
+			],
+			[
+				"st",
+				"state_percentage_2d_array"
+			],
+			[
+				"dependenc",
+				"dependencies"
+			],
+			[
+				"post",
+				"post_content"
+			],
+			[
+				"ban",
+				"band_2"
+			],
+			[
+				"network",
+				"network_layout"
+			],
+			[
+				"net",
+				"network_layout"
+			],
+			[
+				"modu",
+				"module"
+			],
+			[
+				"ne",
+				"network_module"
+			],
+			[
+				"cla",
+				"class_module"
+			],
+			[
+				"fre",
+				"frequency_selection"
+			],
+			[
+				"secon",
+				"second-frequency"
+			],
+			[
+				"dual",
+				"dual_selection"
+			],
+			[
+				"my",
+				"my_layout"
+			],
+			[
+				"pic",
+				"pickle_file"
+			],
+			[
+				"frequency",
+				"frequency_selection"
+			],
+			[
+				"frequ",
+				"frequency_content"
+			],
+			[
+				"la",
+				"labels"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"gen",
+				"gender_counts"
+			],
+			[
+				"fet",
+				"fetchall"
+			],
+			[
+				"plot_",
+				"plot_bars"
+			],
+			[
+				"fe",
+				"fetchall"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"frie",
+				"friends_hash_table"
+			],
+			[
+				"fr",
+				"friends_table"
+			],
+			[
+				"fri",
+				"friends_hash_table"
+			],
+			[
+				"ba",
+				"bartender"
+			],
+			[
+				"b",
+				"bartender"
+			],
+			[
+				"barten",
+				"bartender_ssn"
+			],
+			[
+				"barte",
+				"bartender_ssn"
+			],
+			[
+				"bar",
+				"bartenders_table"
+			],
+			[
+				"naviga",
+				"navigation_value"
+			],
+			[
+				"other",
+				"other_likes"
+			],
+			[
+				"ou",
+				"our_types"
+			],
+			[
+				"our_",
+				"our_types"
+			],
+			[
+				"our",
+				"our_likes"
+			],
+			[
+				"myz",
+				"my_zipcode"
+			],
+			[
+				"f",
+				"fetchone"
+			],
+			[
+				"frien",
+				"friend_ssn"
+			],
+			[
+				"mys",
+				"mysql"
+			],
+			[
+				"fetch",
+				"fetchall"
+			],
+			[
+				"zip",
+				"zipcodes"
+			],
+			[
+				"close",
+				"close_bars"
+			],
+			[
+				"bart",
+				"bartender_ssn"
+			],
+			[
+				"navig",
+				"navigation_value"
+			],
+			[
+				"navi",
+				"navigation_value"
+			],
+			[
+				"L",
+				"Login"
+			],
+			[
+				"nav",
+				"navigation_value"
+			],
+			[
+				"drinker",
+				"drinker_ssn"
+			],
+			[
+				"drinke",
+				"drinker_ssn"
+			],
+			[
+				"form",
+				"format"
+			],
+			[
+				"de",
+				"destination_port"
+			],
+			[
+				"des",
+				"destination"
+			],
+			[
+				"Time",
+				"timedout"
+			],
+			[
+				"__",
+				"__dict__"
+			],
+			[
+				"msg",
+				"msg_packet"
+			],
+			[
+				"sne_",
+				"sen_socket"
+			],
+			[
+				"set",
+				"settimeout"
+			],
+			[
+				"send",
+				"sendto"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "loader.py",
+			"settings":
+			{
+				"buffer_size": 10325,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/dohme/Desktop/prain/prainsa",
+		"/C/Users/dohme/Desktop/prain/prainsa/prainsa",
+		"/C/Users/dohme/Desktop/prain/prainsa/prainsa/loader"
+	],
+	"file_history":
+	[
+		"/C/Users/dohme/Desktop/EDA-LFP/EDA-LFP.sublime-project",
+		"/C/Users/dohme/Desktop/prain/prainsa/prainsa/loader.py",
+		"/C/Users/dohme/Desktop/winter_project/dataset/F141020-lfp-5min-1kHz/post/metadata.dat",
+		"/C/Users/dohme/Desktop/winter_project/china_requests/6_7/theta_gamma/Ch22-theta_Ch23-gamma_epoch-61.txt",
+		"/C/Users/dohme/Desktop/prain/prainsa/MANIFEST.in",
+		"/C/Users/dohme/Desktop/prain/prainsa/prainsa/plotly_plot/plotly_plot.py",
+		"/C/Users/dohme/Desktop/prain/prainsa/setup.cfg",
+		"/C/Users/dohme/Desktop/prain/prainsa/Makefile",
+		"/C/Users/dohme/Desktop/class work/CS442/graph.py",
+		"/C/Users/dohme/Desktop/graph/graph.py",
+		"/C/Users/dohme/Desktop/prain/prainsa/tests/test_prainsa.py",
+		"/C/Users/dohme/Desktop/prain/prainsa/prainsa/prainsa.py",
+		"/C/Users/dohme/Desktop/prain/prainsa/prainsa/_version.py",
+		"/C/Users/dohme/Desktop/prain/prainsa/.pypirc",
+		"/C/Users/dohme/Desktop/prain/prainsa/requirements_dev.txt",
+		"/C/Users/dohme/Desktop/prain/prainsa/HISTORY.rst",
+		"/C/Users/dohme/Desktop/prain/prainsa/setup.py",
+		"/C/Users/dohme/Desktop/prain/prainsa/travis_pypi_setup.py",
+		"/C/Users/dohme/Desktop/prain/prainsa/docs/usage.rst",
+		"/C/Users/dohme/Desktop/prain/prainsa/docs/conf.py",
+		"/C/Users/dohme/Desktop/prain/prainsa/.travis.yml",
+		"/C/Users/dohme/Desktop/prain/prainsa/AUTHORS.rst",
+		"/C/Users/dohme/Desktop/prain/prainsa/CONTRIBUTING.rst",
+		"/C/Users/dohme/Desktop/prain/prainsa/LICENSE",
+		"/C/Users/dohme/Desktop/prain/prainsa/README.rst",
+		"/C/Users/dohme/Desktop/prain/prainsa/prainsa/cli.py",
+		"/C/Users/dohme/Desktop/winter_project/presentation/proof_of_concept.csv",
+		"/C/Users/dohme/Desktop/class work/CS442/winter_project/append_pre_post.py",
+		"/C/Users/dohme/Desktop/class work/CS442/winter_project/video_generator.py",
+		"/C/Users/dohme/Desktop/EDA-LFP/generate_plots_dual_frequency.py",
+		"/C/Users/dohme/Desktop/dash/app.py",
+		"/C/Users/dohme/Desktop/winter_project/main.py",
+		"/C/Users/dohme/Desktop/winter_project/epoch.py",
+		"/C/Users/dohme/Desktop/winter_project/brain_signals/brain_signals/brain_signals.py",
+		"/C/Users/dohme/Desktop/winter_project/sort.py",
+		"/C/Users/dohme/Desktop/class work/CS442/winter_project/append.py",
+		"/C/Users/dohme/Desktop/class work/s.csv",
+		"/C/Users/dohme/Google Drive/brain_signals/brain_signals/utilities.py",
+		"/C/Users/dohme/Google Drive/brain_signals/brain_signals/brain_signals.py",
+		"/C/Users/dohme/Desktop/python/server.py",
+		"/C/Users/dohme/Google Drive/brain_signals/brain_signals/plotly_plot/plotly_plot.py",
+		"/C/Users/dohme/Desktop/winter_project/brain_signals/tester.py",
+		"/C/Users/dohme/Desktop/winter_project/ch20.csv",
+		"/C/Users/dohme/Google Drive/brain_signals/tester.py",
+		"/C/Users/dohme/Desktop/class work/CS442/to_submit/DFViz/tester.py",
+		"/C/Users/dohme/Desktop/class work/CS442/to_submit/DFViz/README.md",
+		"/C/Users/dohme/Desktop/class work/CS442/to_submit/DFViz/DFViz/DFViz.py",
+		"/C/Users/dohme/Desktop/class work/CS442/to_submit/DFViz/setup.py",
+		"/C/Users/dohme/Google Drive/brain_signals/setup.py",
+		"/C/Users/dohme/Desktop/class work/CS442/to_submit/DFViz/DFViz.py",
+		"/C/Users/dohme/Desktop/class work/CS442/to_submit/graph/network_layout.py",
+		"/C/Users/dohme/Desktop/class work/CS442/to_submit/graph/readme",
+		"/C/Users/dohme/Desktop/class work/CS442/to_submit/graph/graph.py",
+		"/C/Users/dohme/Desktop/class work/CS442/to_submit/graph/readme.py",
+		"/C/Users/dohme/Desktop/class work/CS442/network_layout.py",
+		"/C/Users/dohme/Desktop/class work/CS442/to_submit/graph.py",
+		"/C/Users/dohme/Desktop/class work/CS416/Lecture Notes/1Lec",
+		"/C/Users/dohme/Desktop/class work/CS416/Lecture Notes/2Lec",
+		"/C/Users/dohme/Desktop/class work/CS416/Lecture Notes/3Lec",
+		"/C/Users/dohme/Desktop/class work/CS416/Lecture Notes/4Lec",
+		"/C/Users/dohme/Desktop/class work/CS416/Lecture Notes/5Lec",
+		"/C/Users/dohme/Desktop/class work/CS416/Lecture Notes/6Lec",
+		"/C/Users/dohme/Desktop/class work/CS416/Lecture Notes/7Lec",
+		"/C/Users/dohme/Desktop/class work/CS416/Lecture Notes/8Lec",
+		"/C/Users/dohme/Desktop/class work/CS416/Lecture Notes/9Lec",
+		"/C/Users/dohme/Desktop/class work/CS416/Lecture Notes/10Lec",
+		"/C/Users/dohme/Desktop/class work/CS416/Lecture Notes/11Lec",
+		"/C/Users/dohme/Desktop/class work/CS416/Lecture Notes/12Lec",
+		"/C/Users/dohme/Desktop/class work/CS416/asst0/undead_code.c",
+		"/C/Users/dohme/Desktop/class work/CS416/scheduler.c",
+		"/C/Users/dohme/Desktop/class work/CS416/my_pthread_back.c",
+		"/C/Users/dohme/Desktop/python/to_submit/project_2/_sock352.py",
+		"/C/Users/dohme/Desktop/python/testing_project_2/umang/sock352.py",
+		"/C/Users/dohme/Desktop/python/project3/server3.py",
+		"/C/Users/dohme/Desktop/python/project3/sock352.py",
+		"/C/Users/dohme/Desktop/python/project3/client3.py",
+		"/C/Users/dohme/Desktop/python/testing_project_2_1/umang/sock352.py",
+		"/C/Users/dohme/Desktop/python/project3/server2.py",
+		"/C/Users/dohme/Desktop/python/project3/client2.py",
+		"/C/Users/dohme/Desktop/python/testing_project_2/aman/sock352.py",
+		"/C/Users/dohme/Desktop/class work/CS336/mini_project/MongoDB_version.js",
+		"/C/Users/dohme/Desktop/class work/CS336/mini_project/mongo_results.txt",
+		"/C/Users/dohme/Desktop/class work/CS336/mini_project/MySQL_version.sql",
+		"/C/Users/dohme/Desktop/python/to_submit/project_2/sock352.py",
+		"/C/Users/dohme/Desktop/python/to_submit/project_2/server2.py",
+		"/C/Users/dohme/Desktop/python/testing_project_1/umang/sock352.py",
+		"/C/Users/dohme/Desktop/python/testing_project_1/aman/client1.py",
+		"/C/Users/dohme/Desktop/python/testing_project_2/umang/client2.py",
+		"/C/Users/dohme/Desktop/python/testing_project_2/umang/server2.py",
+		"/C/Users/dohme/Desktop/python/testing_project_1/aman/sock352.py",
+		"/C/Users/dohme/Desktop/python/testing_project_1/aman/server1.py",
+		"/C/Users/dohme/Desktop/class work/CS336/mini_project/test.csv",
+		"/C/Users/dohme/Desktop/class work/CS336/mini_project/ReviewFields",
+		"/C/Users/dohme/Desktop/class work/CS336/mini_project/reviews.csv",
+		"/C/Users/dohme/Desktop/class work/CS336/mini_project/ReviewField",
+		"/C/Users/dohme/Desktop/class work/CS336/mini_project/HotelFields",
+		"/C/Users/dohme/Desktop/class work/CS336/mini_project/AuthorField",
+		"/C/Users/dohme/Desktop/class work/CS336/mini_project/hotels.csv",
+		"/C/Users/dohme/Desktop/class work/CS336/asst3.sql",
+		"/C/Users/dohme/Desktop/class work/CS336/mini_project/review.csv",
+		"/C/Users/dohme/Desktop/dash/Survey",
+		"/C/Users/dohme/Desktop/class work/CS336/data_generation_new.py",
+		"/C/Users/dohme/Desktop/dash/network_layout.py",
+		"/C/Users/dohme/Desktop/class work/CS336/loc2",
+		"/C/Users/dohme/Desktop/class work/CS336/project/database/old/loc2",
+		"/C/Users/dohme/Desktop/class work/CS336/project/app.py",
+		"/C/Users/dohme/Desktop/dash/app.css",
+		"/C/Users/dohme/Desktop/class work/CS110/n.txt",
+		"/C/Users/dohme/Desktop/class work/CS110/c.txt",
+		"/C/Users/dohme/Desktop/class work/CS336/project/templates/bar/bar_drinker.html",
+		"/C/Users/dohme/Desktop/class work/CS336/project submission/sql queries.sql",
+		"/C/Users/dohme/Desktop/class work/CS336/project submission/sql_builder.sql",
+		"/C/Users/dohme/Desktop/class work/CS336/project/create_empty_tables.sql",
+		"/C/Users/dohme/Desktop/class work/CS336/project/templates/message_displayer.html",
+		"/C/Users/dohme/Desktop/class work/CS336/project/templates/bar/bar_bartender.html",
+		"/C/Users/dohme/Desktop/class work/CS336/project/templates/drinker/drinker_bartender.html",
+		"/C/Users/dohme/Desktop/class work/CS336/project/templates/bar/bar_beers.html",
+		"/C/Users/dohme/Desktop/class work/CS336/project/database/sql_builder.txt",
+		"/C/Users/dohme/Desktop/class work/CS336/project/templates/bartender/bartender_bars.html",
+		"/C/Users/dohme/Desktop/class work/CS336/project/templates/beer/beer_beers.html",
+		"/C/Users/dohme/Desktop/class work/CS336/project/templates/bar/bar_control_panel.html",
+		"/C/Users/dohme/Desktop/class work/CS336/project/templates/beer/beer_control_panel.html",
+		"/C/Users/dohme/Desktop/class work/CS336/project/templates/beer/beer_drinker.html",
+		"/C/Users/dohme/Desktop/class work/CS336/project/templates/beer/beer_bar.html",
+		"/C/Users/dohme/Desktop/class work/CS336/project/templates/drinker/drinker_beers.html",
+		"/C/Users/dohme/Desktop/class work/CS336/project/templates/drinker/drinker_bars.html",
+		"/C/Users/dohme/Desktop/class work/CS336/project/templates/beer/beer.html",
+		"/C/Users/dohme/Desktop/class work/CS336/project/templates/drinker/drinker_control_panel.html"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"brain_signals_object",
+			"BrainSignals",
+			"brain_signals_loader",
+			"plot_Scc",
+			"    ",
+			"convert append",
+			"pickle",
+			"post",
+			"An edge",
+			"create_dual_networks",
+			"do()",
+			"sort",
+			"    ",
+			"lags_dict",
+			"print",
+			"plt",
+			"ccf",
+			"encrypt",
+			"'\n",
+			"make_ack",
+			"bind(",
+			"port",
+			"RECV_SIZE",
+			"threshold",
+			"2f",
+			"indeca",
+			"SELECT",
+			"Drinker",
+			"beer, manf = beer.split('|')",
+			"split('|')",
+			"beer.split('|')",
+			"beer, manf = beer.split('|')",
+			"DELETE FROM",
+			"SELECT",
+			"Morning",
+			"Night",
+			"Afternoon",
+			"YES",
+			"NO",
+			"Large",
+			"Small",
+			"Medium",
+			"Afternoon",
+			"Morning",
+			"Night",
+			"bars",
+			"print",
+			"'Msg",
+			"encrypt",
+			"Msg",
+			"print",
+			"print ",
+			"print",
+			"!')\n",
+			"print",
+			"bytear",
+			"self.socket",
+			"sendto",
+			"self.socket",
+			"rec_port",
+			"5555",
+			"55",
+			"5555",
+			"encryptio",
+			"Afternoon",
+			"Night",
+			"Morning",
+			"\"YES\"",
+			"\"NO\"",
+			"Large",
+			"Small",
+			"Medium",
+			"Night",
+			"Afternoon",
+			"Morning",
+			"man",
+			"license",
+			"navigate",
+			"center",
+			"render_template",
+			"delta",
+			"do",
+			"unifor",
+			"table",
+			"plot_SCC",
+			"graphs",
+			"Actions",
+			"DEFAULT",
+			"SPECIAL",
+			"sectio",
+			"untitled",
+			".jpg",
+			"banner",
+			"jpg",
+			"hover",
+			"married",
+			"Scene",
+			"[Scene",
+			"from pyannote.core",
+			"direct mem",
+			"Y",
+			"    ",
+			"direc",
+			"plot",
+			"plot_barcode",
+			"listen",
+			"printf",
+			"maintenance_timer",
+			"ITIMER_PROF",
+			"maintenance_function fired",
+			"ITIMER_PROF",
+			"setitimer(T",
+			"setitimer(ITIMER_PROF",
+			"setitimer",
+			"lock",
+			"sock352",
+			"printf",
+			"done e",
+			"done ex",
+			"setco",
+			"PROF",
+			"maintenance_timer.it_value.tv_usec",
+			"maintena",
+			"setitimer",
+			"thread",
+			"dequeue",
+			"    ",
+			"reduce"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"prainsa_object",
+			"Prainsa",
+			"prainsa_loader",
+			"\\t",
+			"M",
+			"N",
+			"A",
+			"Y",
+			"N",
+			"L",
+			"S",
+			"M",
+			"A",
+			"M",
+			"N",
+			"A",
+			"N",
+			"M",
+			"\"Y\"",
+			"\"N\"",
+			"L",
+			"S",
+			"M",
+			"N",
+			"A",
+			"M",
+			"\\t",
+			"0",
+			"avg(5 - t0.REVIEW_STARS)",
+			"< 4",
+			"\\t",
+			"    ",
+			"\\t",
+			"/t",
+			"lfp",
+			"\\t",
+			"/",
+			"dt_now",
+			"\"500\"",
+			"\"400\"",
+			"\"100\"",
+			"\"800\"",
+			"self.wavefile",
+			"0.048",
+			"0.153",
+			"0.7",
+			"0.17",
+			"0.308",
+			"0.692",
+			"blink_light_lock",
+			"5",
+			"4",
+			"3",
+			"2",
+			"1",
+			"whichTerminal",
+			"terminalState",
+			"394",
+			"399",
+			"clientFileDiscriptor",
+			"putInteger",
+			"serverFileDiscriptor"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "loader.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 49.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 208.0
+	},
+	"pinned_build_system": "",
+	"project": "/C/Users/dohme/Desktop/EDA-LFP/EDA-LFP.sublime-project",
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
