@@ -3,7 +3,7 @@
 
 """The setup script."""
 
-import versioneer
+#import versioneer
 from setuptools import setup, find_packages
 
 with open('README.rst') as readme_file:
@@ -29,8 +29,7 @@ test_requirements = [
 
 setup(
     name='prainsa',
-    version=versioneer.get_version(),
-    cmdclass=versioneer.get_cmdclass(),
+#    version=versioneer.get_version(),
     description="A Python framework to analyze and visualize brain signals.",
     long_description=readme + '\n\n' + history,
     author="Abdulrahman A. Althobaiti",
