@@ -3,7 +3,7 @@
 
 """The setup script."""
 
-#import versioneer
+import versioning
 from setuptools import setup, find_packages
 
 with open('README.rst') as readme_file:
@@ -29,13 +29,13 @@ test_requirements = [
 
 setup(
     name='prainsa',
-#    version=versioneer.get_version(),
+    version=versioning.get_version(),
     description="A Python framework to analyze and visualize brain signals.",
     long_description=readme + '\n\n' + history,
     author="Abdulrahman A. Althobaiti",
     author_email='Abdulrahman.Althobaiti@kaust.edu.sa',
     url='https://github.com/A-Althobaiti/prainsa',
-    packages=find_packages(include=['prainsa']),
+    packages=find_packages(),
     include_package_data=True,
     install_requires=requirements,
     license="GNU General Public License v3",
